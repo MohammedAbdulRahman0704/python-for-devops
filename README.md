@@ -18,6 +18,10 @@ from zero repository for doing python devops work
   * Dockerfile
   * command-line-tools
   * Microservice
+
+  1. Create a virtualenv: `virtualenv ~/.venv`
+  2. edit my `~.bashrc`
+  
   ### AWS CloudShell
   ### AWS Cloud9
 
